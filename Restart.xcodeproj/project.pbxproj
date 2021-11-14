@@ -7,18 +7,49 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A221CD2B274152CB004CDCDC /* AudioPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A221CD2A274152CB004CDCDC /* AudioPlayer.swift */; };
+		A221CD4B27415DC8004CDCDC /* Violet Spirit - Dan Henig.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A221CD4227415DC8004CDCDC /* Violet Spirit - Dan Henig.mp3 */; };
+		A221CD4C27415DC8004CDCDC /* Nebular Focus - Dan Henig.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A221CD4327415DC8004CDCDC /* Nebular Focus - Dan Henig.mp3 */; };
+		A221CD4D27415DC8004CDCDC /* Glacier - Patrick Patrikios.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A221CD4427415DC8004CDCDC /* Glacier - Patrick Patrikios.mp3 */; };
+		A221CD4E27415DC8004CDCDC /* Eternal Garden - Dan Henig.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A221CD4527415DC8004CDCDC /* Eternal Garden - Dan Henig.mp3 */; };
+		A221CD4F27415DC8004CDCDC /* Underwater Exploration - Godmode.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A221CD4627415DC8004CDCDC /* Underwater Exploration - Godmode.mp3 */; };
+		A221CD5027415DC8004CDCDC /* On the Island - Godmode.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A221CD4727415DC8004CDCDC /* On the Island - Godmode.mp3 */; };
+		A221CD5127415DC8004CDCDC /* Two Moons - Bobby Richards.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A221CD4827415DC8004CDCDC /* Two Moons - Bobby Richards.mp3 */; };
+		A221CD5227415DC8004CDCDC /* Lens - Bobby Richards.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A221CD4927415DC8004CDCDC /* Lens - Bobby Richards.mp3 */; };
+		A221CD5327415DC8004CDCDC /* Dolphin-esque - Godmode.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A221CD4A27415DC8004CDCDC /* Dolphin-esque - Godmode.mp3 */; };
+		A22C3B89274144320097B817 /* CircleGroupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A22C3B88274144320097B817 /* CircleGroupView.swift */; };
 		A2A478382741371A001B5163 /* RestartApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2A478372741371A001B5163 /* RestartApp.swift */; };
 		A2A4783A2741371A001B5163 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2A478392741371A001B5163 /* ContentView.swift */; };
 		A2A4783C2741371B001B5163 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2A4783B2741371B001B5163 /* Assets.xcassets */; };
 		A2A4783F2741371B001B5163 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2A4783E2741371B001B5163 /* Preview Assets.xcassets */; };
+		A2A4784C274137EF001B5163 /* chimeup.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A2A4784A274137EF001B5163 /* chimeup.mp3 */; };
+		A2A4784D274137EF001B5163 /* success.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A2A4784B274137EF001B5163 /* success.m4a */; };
+		A2A4785427413A25001B5163 /* OnBoardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2A4785327413A25001B5163 /* OnBoardingView.swift */; };
+		A2A4785627413A46001B5163 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2A4785527413A46001B5163 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A221CD2A274152CB004CDCDC /* AudioPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlayer.swift; sourceTree = "<group>"; };
+		A221CD4227415DC8004CDCDC /* Violet Spirit - Dan Henig.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Violet Spirit - Dan Henig.mp3"; path = "../../../../../../Downloads/Violet Spirit - Dan Henig.mp3"; sourceTree = "<group>"; };
+		A221CD4327415DC8004CDCDC /* Nebular Focus - Dan Henig.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Nebular Focus - Dan Henig.mp3"; path = "../../../../../../Downloads/Nebular Focus - Dan Henig.mp3"; sourceTree = "<group>"; };
+		A221CD4427415DC8004CDCDC /* Glacier - Patrick Patrikios.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Glacier - Patrick Patrikios.mp3"; path = "../../../../../../Downloads/Glacier - Patrick Patrikios.mp3"; sourceTree = "<group>"; };
+		A221CD4527415DC8004CDCDC /* Eternal Garden - Dan Henig.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Eternal Garden - Dan Henig.mp3"; path = "../../../../../../Downloads/Eternal Garden - Dan Henig.mp3"; sourceTree = "<group>"; };
+		A221CD4627415DC8004CDCDC /* Underwater Exploration - Godmode.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Underwater Exploration - Godmode.mp3"; path = "../../../../../../Downloads/Underwater Exploration - Godmode.mp3"; sourceTree = "<group>"; };
+		A221CD4727415DC8004CDCDC /* On the Island - Godmode.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "On the Island - Godmode.mp3"; path = "../../../../../../Downloads/On the Island - Godmode.mp3"; sourceTree = "<group>"; };
+		A221CD4827415DC8004CDCDC /* Two Moons - Bobby Richards.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Two Moons - Bobby Richards.mp3"; path = "../../../../../../Downloads/Two Moons - Bobby Richards.mp3"; sourceTree = "<group>"; };
+		A221CD4927415DC8004CDCDC /* Lens - Bobby Richards.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Lens - Bobby Richards.mp3"; path = "../../../../../../Downloads/Lens - Bobby Richards.mp3"; sourceTree = "<group>"; };
+		A221CD4A27415DC8004CDCDC /* Dolphin-esque - Godmode.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Dolphin-esque - Godmode.mp3"; path = "../../../../../../Downloads/Dolphin-esque - Godmode.mp3"; sourceTree = "<group>"; };
+		A22C3B88274144320097B817 /* CircleGroupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleGroupView.swift; sourceTree = "<group>"; };
 		A2A478342741371A001B5163 /* Restart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Restart.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2A478372741371A001B5163 /* RestartApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestartApp.swift; sourceTree = "<group>"; };
 		A2A478392741371A001B5163 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A2A4783B2741371B001B5163 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2A4783E2741371B001B5163 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A2A4784A274137EF001B5163 /* chimeup.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chimeup.mp3; sourceTree = "<group>"; };
+		A2A4784B274137EF001B5163 /* success.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = success.m4a; sourceTree = "<group>"; };
+		A2A47852274139D7001B5163 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		A2A4785327413A25001B5163 /* OnBoardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnBoardingView.swift; sourceTree = "<group>"; };
+		A2A4785527413A46001B5163 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +82,12 @@
 		A2A478362741371A001B5163 /* Restart */ = {
 			isa = PBXGroup;
 			children = (
+				A2A47852274139D7001B5163 /* Info.plist */,
+				A2A47851274138D9001B5163 /* Utilities */,
+				A2A47850274138BD001B5163 /* Views */,
+				A2A4784E274137FD001B5163 /* Sounds */,
 				A2A478372741371A001B5163 /* RestartApp.swift */,
-				A2A478392741371A001B5163 /* ContentView.swift */,
+				A2A4784F274138B3001B5163 /* Screens */,
 				A2A4783B2741371B001B5163 /* Assets.xcassets */,
 				A2A4783D2741371B001B5163 /* Preview Content */,
 			);
@@ -65,6 +100,50 @@
 				A2A4783E2741371B001B5163 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A2A4784E274137FD001B5163 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				A221CD4A27415DC8004CDCDC /* Dolphin-esque - Godmode.mp3 */,
+				A221CD4527415DC8004CDCDC /* Eternal Garden - Dan Henig.mp3 */,
+				A221CD4427415DC8004CDCDC /* Glacier - Patrick Patrikios.mp3 */,
+				A221CD4927415DC8004CDCDC /* Lens - Bobby Richards.mp3 */,
+				A221CD4327415DC8004CDCDC /* Nebular Focus - Dan Henig.mp3 */,
+				A221CD4727415DC8004CDCDC /* On the Island - Godmode.mp3 */,
+				A221CD4827415DC8004CDCDC /* Two Moons - Bobby Richards.mp3 */,
+				A221CD4627415DC8004CDCDC /* Underwater Exploration - Godmode.mp3 */,
+				A221CD4227415DC8004CDCDC /* Violet Spirit - Dan Henig.mp3 */,
+				A2A4784A274137EF001B5163 /* chimeup.mp3 */,
+				A2A4784B274137EF001B5163 /* success.m4a */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		A2A4784F274138B3001B5163 /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				A2A478392741371A001B5163 /* ContentView.swift */,
+				A2A4785327413A25001B5163 /* OnBoardingView.swift */,
+				A2A4785527413A46001B5163 /* HomeView.swift */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		A2A47850274138BD001B5163 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				A22C3B88274144320097B817 /* CircleGroupView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		A2A47851274138D9001B5163 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				A221CD2A274152CB004CDCDC /* AudioPlayer.swift */,
+			);
+			path = Utilities;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,7 +204,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A2A4784D274137EF001B5163 /* success.m4a in Resources */,
+				A221CD4F27415DC8004CDCDC /* Underwater Exploration - Godmode.mp3 in Resources */,
+				A221CD4B27415DC8004CDCDC /* Violet Spirit - Dan Henig.mp3 in Resources */,
+				A2A4784C274137EF001B5163 /* chimeup.mp3 in Resources */,
+				A221CD5027415DC8004CDCDC /* On the Island - Godmode.mp3 in Resources */,
+				A221CD4E27415DC8004CDCDC /* Eternal Garden - Dan Henig.mp3 in Resources */,
+				A221CD4C27415DC8004CDCDC /* Nebular Focus - Dan Henig.mp3 in Resources */,
+				A221CD5327415DC8004CDCDC /* Dolphin-esque - Godmode.mp3 in Resources */,
+				A221CD5127415DC8004CDCDC /* Two Moons - Bobby Richards.mp3 in Resources */,
+				A221CD5227415DC8004CDCDC /* Lens - Bobby Richards.mp3 in Resources */,
 				A2A4783F2741371B001B5163 /* Preview Assets.xcassets in Resources */,
+				A221CD4D27415DC8004CDCDC /* Glacier - Patrick Patrikios.mp3 in Resources */,
 				A2A4783C2741371B001B5163 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +227,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A22C3B89274144320097B817 /* CircleGroupView.swift in Sources */,
+				A2A4785427413A25001B5163 /* OnBoardingView.swift in Sources */,
+				A2A4785627413A46001B5163 /* HomeView.swift in Sources */,
 				A2A4783A2741371A001B5163 /* ContentView.swift in Sources */,
 				A2A478382741371A001B5163 /* RestartApp.swift in Sources */,
+				A221CD2B274152CB004CDCDC /* AudioPlayer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -271,11 +365,12 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Restart/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Restart/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -299,11 +394,12 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Restart/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Restart/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
