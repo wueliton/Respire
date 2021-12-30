@@ -8,16 +8,20 @@
 
 /* Begin PBXBuildFile section */
 		A221CD2B274152CB004CDCDC /* AudioPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A221CD2A274152CB004CDCDC /* AudioPlayer.swift */; };
-		A221CD4B27415DC8004CDCDC /* Violet Spirit - Dan Henig.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A221CD4227415DC8004CDCDC /* Violet Spirit - Dan Henig.mp3 */; };
-		A221CD4C27415DC8004CDCDC /* Nebular Focus - Dan Henig.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A221CD4327415DC8004CDCDC /* Nebular Focus - Dan Henig.mp3 */; };
-		A221CD4D27415DC8004CDCDC /* Glacier - Patrick Patrikios.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A221CD4427415DC8004CDCDC /* Glacier - Patrick Patrikios.mp3 */; };
-		A221CD4E27415DC8004CDCDC /* Eternal Garden - Dan Henig.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A221CD4527415DC8004CDCDC /* Eternal Garden - Dan Henig.mp3 */; };
-		A221CD4F27415DC8004CDCDC /* Underwater Exploration - Godmode.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A221CD4627415DC8004CDCDC /* Underwater Exploration - Godmode.mp3 */; };
-		A221CD5027415DC8004CDCDC /* On the Island - Godmode.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A221CD4727415DC8004CDCDC /* On the Island - Godmode.mp3 */; };
-		A221CD5127415DC8004CDCDC /* Two Moons - Bobby Richards.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A221CD4827415DC8004CDCDC /* Two Moons - Bobby Richards.mp3 */; };
-		A221CD5227415DC8004CDCDC /* Lens - Bobby Richards.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A221CD4927415DC8004CDCDC /* Lens - Bobby Richards.mp3 */; };
-		A221CD5327415DC8004CDCDC /* Dolphin-esque - Godmode.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A221CD4A27415DC8004CDCDC /* Dolphin-esque - Godmode.mp3 */; };
 		A22C3B89274144320097B817 /* CircleGroupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A22C3B88274144320097B817 /* CircleGroupView.swift */; };
+		A24E3BF3277DDB040009BBDC /* Eternal Garden - Dan Henig.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A24E3BE6277DDB040009BBDC /* Eternal Garden - Dan Henig.mp3 */; };
+		A24E3BF4277DDB040009BBDC /* Violet Spirit - Dan Henig.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A24E3BE7277DDB040009BBDC /* Violet Spirit - Dan Henig.mp3 */; };
+		A24E3BF5277DDB040009BBDC /* Dolphin-esque - Godmode.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A24E3BE8277DDB040009BBDC /* Dolphin-esque - Godmode.mp3 */; };
+		A24E3BF6277DDB040009BBDC /* Simple - Patrick Patrikios.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A24E3BE9277DDB040009BBDC /* Simple - Patrick Patrikios.mp3 */; };
+		A24E3BF7277DDB040009BBDC /* Nebular Focus - Dan Henig.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A24E3BEA277DDB040009BBDC /* Nebular Focus - Dan Henig.mp3 */; };
+		A24E3BF8277DDB040009BBDC /* Underwater Exploration - Godmode.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A24E3BEB277DDB040009BBDC /* Underwater Exploration - Godmode.mp3 */; };
+		A24E3BF9277DDB040009BBDC /* success.m4a in Resources */ = {isa = PBXBuildFile; fileRef = A24E3BEC277DDB040009BBDC /* success.m4a */; };
+		A24E3BFA277DDB040009BBDC /* chimeup.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A24E3BED277DDB040009BBDC /* chimeup.mp3 */; };
+		A24E3BFB277DDB040009BBDC /* Glacier - Patrick Patrikios.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A24E3BEE277DDB040009BBDC /* Glacier - Patrick Patrikios.mp3 */; };
+		A24E3BFC277DDB040009BBDC /* Interstellar Mood - Nico Staf.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A24E3BEF277DDB040009BBDC /* Interstellar Mood - Nico Staf.mp3 */; };
+		A24E3BFD277DDB040009BBDC /* On the Island - Godmode.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A24E3BF0277DDB040009BBDC /* On the Island - Godmode.mp3 */; };
+		A24E3BFE277DDB040009BBDC /* Lens - Bobby Richards.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A24E3BF1277DDB040009BBDC /* Lens - Bobby Richards.mp3 */; };
+		A24E3BFF277DDB040009BBDC /* Two Moons - Bobby Richards.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A24E3BF2277DDB040009BBDC /* Two Moons - Bobby Richards.mp3 */; };
 		A2A478382741371A001B5163 /* RestartApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2A478372741371A001B5163 /* RestartApp.swift */; };
 		A2A4783A2741371A001B5163 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2A478392741371A001B5163 /* ContentView.swift */; };
 		A2A4783C2741371B001B5163 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2A4783B2741371B001B5163 /* Assets.xcassets */; };
@@ -30,16 +34,20 @@
 
 /* Begin PBXFileReference section */
 		A221CD2A274152CB004CDCDC /* AudioPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlayer.swift; sourceTree = "<group>"; };
-		A221CD4227415DC8004CDCDC /* Violet Spirit - Dan Henig.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Violet Spirit - Dan Henig.mp3"; path = "../../../../../../Downloads/Violet Spirit - Dan Henig.mp3"; sourceTree = "<group>"; };
-		A221CD4327415DC8004CDCDC /* Nebular Focus - Dan Henig.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Nebular Focus - Dan Henig.mp3"; path = "../../../../../../Downloads/Nebular Focus - Dan Henig.mp3"; sourceTree = "<group>"; };
-		A221CD4427415DC8004CDCDC /* Glacier - Patrick Patrikios.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Glacier - Patrick Patrikios.mp3"; path = "../../../../../../Downloads/Glacier - Patrick Patrikios.mp3"; sourceTree = "<group>"; };
-		A221CD4527415DC8004CDCDC /* Eternal Garden - Dan Henig.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Eternal Garden - Dan Henig.mp3"; path = "../../../../../../Downloads/Eternal Garden - Dan Henig.mp3"; sourceTree = "<group>"; };
-		A221CD4627415DC8004CDCDC /* Underwater Exploration - Godmode.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Underwater Exploration - Godmode.mp3"; path = "../../../../../../Downloads/Underwater Exploration - Godmode.mp3"; sourceTree = "<group>"; };
-		A221CD4727415DC8004CDCDC /* On the Island - Godmode.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "On the Island - Godmode.mp3"; path = "../../../../../../Downloads/On the Island - Godmode.mp3"; sourceTree = "<group>"; };
-		A221CD4827415DC8004CDCDC /* Two Moons - Bobby Richards.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Two Moons - Bobby Richards.mp3"; path = "../../../../../../Downloads/Two Moons - Bobby Richards.mp3"; sourceTree = "<group>"; };
-		A221CD4927415DC8004CDCDC /* Lens - Bobby Richards.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Lens - Bobby Richards.mp3"; path = "../../../../../../Downloads/Lens - Bobby Richards.mp3"; sourceTree = "<group>"; };
-		A221CD4A27415DC8004CDCDC /* Dolphin-esque - Godmode.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Dolphin-esque - Godmode.mp3"; path = "../../../../../../Downloads/Dolphin-esque - Godmode.mp3"; sourceTree = "<group>"; };
 		A22C3B88274144320097B817 /* CircleGroupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleGroupView.swift; sourceTree = "<group>"; };
+		A24E3BE6277DDB040009BBDC /* Eternal Garden - Dan Henig.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Eternal Garden - Dan Henig.mp3"; sourceTree = "<group>"; };
+		A24E3BE7277DDB040009BBDC /* Violet Spirit - Dan Henig.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Violet Spirit - Dan Henig.mp3"; sourceTree = "<group>"; };
+		A24E3BE8277DDB040009BBDC /* Dolphin-esque - Godmode.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Dolphin-esque - Godmode.mp3"; sourceTree = "<group>"; };
+		A24E3BE9277DDB040009BBDC /* Simple - Patrick Patrikios.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Simple - Patrick Patrikios.mp3"; sourceTree = "<group>"; };
+		A24E3BEA277DDB040009BBDC /* Nebular Focus - Dan Henig.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Nebular Focus - Dan Henig.mp3"; sourceTree = "<group>"; };
+		A24E3BEB277DDB040009BBDC /* Underwater Exploration - Godmode.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Underwater Exploration - Godmode.mp3"; sourceTree = "<group>"; };
+		A24E3BEC277DDB040009BBDC /* success.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = success.m4a; sourceTree = "<group>"; };
+		A24E3BED277DDB040009BBDC /* chimeup.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chimeup.mp3; sourceTree = "<group>"; };
+		A24E3BEE277DDB040009BBDC /* Glacier - Patrick Patrikios.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Glacier - Patrick Patrikios.mp3"; sourceTree = "<group>"; };
+		A24E3BEF277DDB040009BBDC /* Interstellar Mood - Nico Staf.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Interstellar Mood - Nico Staf.mp3"; sourceTree = "<group>"; };
+		A24E3BF0277DDB040009BBDC /* On the Island - Godmode.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "On the Island - Godmode.mp3"; sourceTree = "<group>"; };
+		A24E3BF1277DDB040009BBDC /* Lens - Bobby Richards.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Lens - Bobby Richards.mp3"; sourceTree = "<group>"; };
+		A24E3BF2277DDB040009BBDC /* Two Moons - Bobby Richards.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Two Moons - Bobby Richards.mp3"; sourceTree = "<group>"; };
 		A2A478342741371A001B5163 /* Restart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Restart.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2A478372741371A001B5163 /* RestartApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestartApp.swift; sourceTree = "<group>"; };
 		A2A478392741371A001B5163 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -105,15 +113,19 @@
 		A2A4784E274137FD001B5163 /* Sounds */ = {
 			isa = PBXGroup;
 			children = (
-				A221CD4A27415DC8004CDCDC /* Dolphin-esque - Godmode.mp3 */,
-				A221CD4527415DC8004CDCDC /* Eternal Garden - Dan Henig.mp3 */,
-				A221CD4427415DC8004CDCDC /* Glacier - Patrick Patrikios.mp3 */,
-				A221CD4927415DC8004CDCDC /* Lens - Bobby Richards.mp3 */,
-				A221CD4327415DC8004CDCDC /* Nebular Focus - Dan Henig.mp3 */,
-				A221CD4727415DC8004CDCDC /* On the Island - Godmode.mp3 */,
-				A221CD4827415DC8004CDCDC /* Two Moons - Bobby Richards.mp3 */,
-				A221CD4627415DC8004CDCDC /* Underwater Exploration - Godmode.mp3 */,
-				A221CD4227415DC8004CDCDC /* Violet Spirit - Dan Henig.mp3 */,
+				A24E3BED277DDB040009BBDC /* chimeup.mp3 */,
+				A24E3BE8277DDB040009BBDC /* Dolphin-esque - Godmode.mp3 */,
+				A24E3BE6277DDB040009BBDC /* Eternal Garden - Dan Henig.mp3 */,
+				A24E3BEE277DDB040009BBDC /* Glacier - Patrick Patrikios.mp3 */,
+				A24E3BEF277DDB040009BBDC /* Interstellar Mood - Nico Staf.mp3 */,
+				A24E3BF1277DDB040009BBDC /* Lens - Bobby Richards.mp3 */,
+				A24E3BEA277DDB040009BBDC /* Nebular Focus - Dan Henig.mp3 */,
+				A24E3BF0277DDB040009BBDC /* On the Island - Godmode.mp3 */,
+				A24E3BE9277DDB040009BBDC /* Simple - Patrick Patrikios.mp3 */,
+				A24E3BEC277DDB040009BBDC /* success.m4a */,
+				A24E3BF2277DDB040009BBDC /* Two Moons - Bobby Richards.mp3 */,
+				A24E3BEB277DDB040009BBDC /* Underwater Exploration - Godmode.mp3 */,
+				A24E3BE7277DDB040009BBDC /* Violet Spirit - Dan Henig.mp3 */,
 				A2A4784A274137EF001B5163 /* chimeup.mp3 */,
 				A2A4784B274137EF001B5163 /* success.m4a */,
 			);
@@ -204,18 +216,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A24E3BF8277DDB040009BBDC /* Underwater Exploration - Godmode.mp3 in Resources */,
 				A2A4784D274137EF001B5163 /* success.m4a in Resources */,
-				A221CD4F27415DC8004CDCDC /* Underwater Exploration - Godmode.mp3 in Resources */,
-				A221CD4B27415DC8004CDCDC /* Violet Spirit - Dan Henig.mp3 in Resources */,
+				A24E3BFE277DDB040009BBDC /* Lens - Bobby Richards.mp3 in Resources */,
+				A24E3BF5277DDB040009BBDC /* Dolphin-esque - Godmode.mp3 in Resources */,
 				A2A4784C274137EF001B5163 /* chimeup.mp3 in Resources */,
-				A221CD5027415DC8004CDCDC /* On the Island - Godmode.mp3 in Resources */,
-				A221CD4E27415DC8004CDCDC /* Eternal Garden - Dan Henig.mp3 in Resources */,
-				A221CD4C27415DC8004CDCDC /* Nebular Focus - Dan Henig.mp3 in Resources */,
-				A221CD5327415DC8004CDCDC /* Dolphin-esque - Godmode.mp3 in Resources */,
-				A221CD5127415DC8004CDCDC /* Two Moons - Bobby Richards.mp3 in Resources */,
-				A221CD5227415DC8004CDCDC /* Lens - Bobby Richards.mp3 in Resources */,
+				A24E3BFB277DDB040009BBDC /* Glacier - Patrick Patrikios.mp3 in Resources */,
+				A24E3BFF277DDB040009BBDC /* Two Moons - Bobby Richards.mp3 in Resources */,
+				A24E3BFA277DDB040009BBDC /* chimeup.mp3 in Resources */,
+				A24E3BFC277DDB040009BBDC /* Interstellar Mood - Nico Staf.mp3 in Resources */,
+				A24E3BF3277DDB040009BBDC /* Eternal Garden - Dan Henig.mp3 in Resources */,
+				A24E3BFD277DDB040009BBDC /* On the Island - Godmode.mp3 in Resources */,
+				A24E3BF4277DDB040009BBDC /* Violet Spirit - Dan Henig.mp3 in Resources */,
 				A2A4783F2741371B001B5163 /* Preview Assets.xcassets in Resources */,
-				A221CD4D27415DC8004CDCDC /* Glacier - Patrick Patrikios.mp3 in Resources */,
+				A24E3BF9277DDB040009BBDC /* success.m4a in Resources */,
+				A24E3BF7277DDB040009BBDC /* Nebular Focus - Dan Henig.mp3 in Resources */,
+				A24E3BF6277DDB040009BBDC /* Simple - Patrick Patrikios.mp3 in Resources */,
 				A2A4783C2741371B001B5163 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
